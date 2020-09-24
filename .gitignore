@@ -1,0 +1,8 @@
+
+Seattle_Loop_Dataset/Loop_Seattle_2015_A.npy
+Seattle_Loop_Dataset/Loop_Seattle_2015_reachability_free_flow_10min.npy
+Seattle_Loop_Dataset/Loop_Seattle_2015_reachability_free_flow_15min.npy
+Seattle_Loop_Dataset/Loop_Seattle_2015_reachability_free_flow_20min.npy
+*.npy
+Seattle_Loop_Dataset/speed_matrix_2015
+Seattle_Loop_Dataset/nodes_loop_mp_list.csv
